@@ -24,18 +24,16 @@ Otherwise, download or clone the repository and copy the 'Gauges' directory into
 
 Simple Gauge
 
-# ![Screenshot](https://raw.github.com/sabymike/MSSimpleGauge/master/SimpleGauge/simple.png)
+# ![Screenshot](https://raw.github.com/durant/MSSimpleGauge/master/SimpleGauge/simple.png)
 
-# ![Screenshot](https://raw.github.com/sabymike/MSSimpleGauge/master/SimpleGauge/range.png)
+# ![Screenshot](https://raw.github.com/durant/MSSimpleGauge/master/SimpleGauge/range.png)
 
-# ![Screenshot](https://raw.github.com/sabymike/MSSimpleGauge/master/SimpleGauge/annotated.png)
+# ![Screenshot](https://raw.github.com/durant/MSSimpleGauge/master/SimpleGauge/annotated.png)
 
 ## Authors
 
-* Mike Sabatini ([@mikesabatini](https://twitter.com/mikesabatini))
+* kevin durant
 
 ## License
-
-Copyright Mike Sabatini 2013
 
 Licensed under the MIT License. Enjoy
