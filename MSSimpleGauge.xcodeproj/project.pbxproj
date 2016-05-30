@@ -396,6 +396,7 @@
 		342338DD169E39EA008C3A20 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimpleGauge/MSSimpleGauge-Prefix.pch";
 				INFOPLIST_FILE = "SimpleGauge/MSSimpleGauge-Info.plist";
@@ -408,6 +409,7 @@
 		342338DE169E39EA008C3A20 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SimpleGauge/MSSimpleGauge-Prefix.pch";
 				INFOPLIST_FILE = "SimpleGauge/MSSimpleGauge-Info.plist";
